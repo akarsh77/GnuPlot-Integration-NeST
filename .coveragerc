@@ -1,0 +1,13 @@
+[run]
+command_line = -m pytest -v --junitxml=junit_report.xml -o junit_logging=all
+concurrency = multiprocessing
+parallel = True
+source = nest
+branch = True
+data_file = .coverage_dump
+
+[report]
+omit = nest/tests/*
+       nest/version.py
+
+precision = 2

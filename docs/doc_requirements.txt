@@ -1,0 +1,5 @@
+Sphinx>=3.1.2
+sphinx-rtd-theme
+furo
+sphinx-multiversion
+myst-parser

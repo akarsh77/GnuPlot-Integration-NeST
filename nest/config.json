@@ -1,0 +1,14 @@
+{
+    "assign_random_names": true,
+    "default_bandwidth": "1024mbit",
+    "delete_namespaces_on_termination": true,
+    "disable_dad": true,
+    "log_level": "INFO",
+    "plot_results": true,
+    "readme_in_stats_folder": true,
+    "show_progress_bar": true,
+    "show_tcp_module_parameter_confirmation": true,
+    "routing_suite": "quagga",
+    "enable_gnuplot": true,
+    "routing_logs": false
+}
