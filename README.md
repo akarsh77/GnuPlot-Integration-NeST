@@ -45,5 +45,3 @@ sudo python3 -m unittest -v
 ## Contributing
 
 To contribute, read [CONTRIBUTING.md](https://gitlab.com/nitk-nest/nest/-/blob/master/CONTRIBUTING.md)
-# gnuplot-nest
-# gnuplot-nest
